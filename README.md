@@ -1,4 +1,4 @@
-# PythonLecture_2022.03
+# PythonLecture_2022.03 ~
 ## python study👀
 ### 스마트 빅데이터분석 머신러닝활용 과정
 
